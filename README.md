@@ -1,4 +1,4 @@
-Loan Default Analysis Dashboard 💳📊
+                                 💳📊 Loan Default Analysis Dashboard 💳📊
 
 An interactive Power BI dashboard designed to analyze loan default patterns, customer risk behavior, and financial trends.
 This project helps identify high-risk customers using data visualization, KPI metrics, and business intelligence techniques.
